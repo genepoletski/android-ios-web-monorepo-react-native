@@ -1,1 +1,1 @@
-# Monorepo with React Native
+# Android, iOS and Web App Monorepo with React Native
